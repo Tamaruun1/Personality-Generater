@@ -173,3 +173,4 @@ with open('TraitsResults.csv', 'w', encoding="utf-8", newline='') as file:
         n = HeightGenerator(Trait), WeightGenerator(Trait), AgeGenerator(Trait), SexGenerator(Trait), HairColorGenerator(Trait), EyeColorGenerator(Trait), BloodTypeGenerator(Trait), HealthGenerator(Trait),EthnicityGenerator(Trait), MuscleMassGenerator(Trait)
         writer.writerow(n)
 
+print(n)
