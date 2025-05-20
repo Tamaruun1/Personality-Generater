@@ -1,0 +1,1000 @@
+Height,Weight,Age,Sex,Hair Color,Eye Color,Blood Type,Health,Ethnicity,Muscle mass distribution
+172,80,38,Female,Black,Black,A-,Hereditary Diseases Genetic,Afro-Brazilian,0.33
+171,107,24,Male,Blond,Black,B+,Healthy,German,0.39
+176,109,22,Male,Blond,Green,O-,physiological diseases,Norwegian,0.51
+172,92,49,Male,Brown,Brown,O+,Healthy,Navajo,0.4
+193,87,63,Female,Black,Green,O+,Deficiency Diseases,Tongan,0.4
+167,95,90,Male,Blond,Blue,O-,Hereditary Diseases Genetic,Latino,0.56
+185,99,32,Female,Blond,Brown,A+,Too Healthy,Roma,0.43
+172,74,69,Female,Blond,Brown,AB+,Too Healthy,Māori,0.39
+178,73,51,Male,Black,Blue,AB-,Healthy,Japanese,0.35
+173,95,56,Female,Black,Brown,A-,Infectious Disease,Gujarati,0.35
+187,94,19,Male,Black,Brown,AB-,physiological diseases,Sindhi,0.54
+187,66,81,Female,Black,Green,AB-,Healthy,Afro-Colombian,0.32
+176,106,35,Female,Black,Black,B+,physiological diseases,Vietnamese,0.48
+186,88,35,Male,Blond,Brown,AB-,Healthy,Tamil,0.35
+167,74,84,Female,White,Green,O+,physiological diseases,Greek,0.31
+171,74,66,Female,Blond,Blue,O-,Hereditary Diseases Non-Genetic,Irish,0.55
+179,97,63,Male,Brown,Blue,B-,physiological diseases,Punjabi,0.49
+171,93,48,Female,Blond,Black,B-,Too Healthy,Cuban,0.43
+188,74,56,Male,Black,Blue,AB-,Deficiency Diseases,Ashkenazi Jewish,0.32
+167,84,22,Female,White,Brown,B+,Too Healthy,Sephardic Jewish,0.35
+195,80,30,Male,Blond,Black,A-,Infectious Disease,Fijian,0.49
+182,68,17,Female,Brown,Green,A-,physiological diseases,Sindhi,0.31
+167,73,57,Female,Brown,Green,B+,Infectious Disease,Hutu,0.47
+171,89,28,Male,Brown,Black,B-,Deficiency Diseases,Xhosa,0.53
+176,68,76,Female,Brown,Brown,A+,O-,Inuit,0.48
+191,95,55,Female,White,Brown,A-,Too Healthy,Sioux,0.53
+185,76,72,Male,Blond,Blue,B+,O-,Igbo,0.49
+170,65,76,Female,Black,Blue,O+,physiological diseases,Tongan,0.39
+169,92,45,Male,Blond,Blue,O-,physiological diseases,Amhara,0.37
+181,107,20,Male,Black,Blue,O+,physiological diseases,Tongan,0.5
+171,69,26,Male,Black,Green,AB-,Infectious Disease,Korean,0.54
+189,79,85,Female,Black,Brown,O+,Healthy,Italian,0.35
+179,76,35,Male,Black,Black,O+,physiological diseases,Turkish,0.49
+195,83,58,Male,Brown,Black,A+,Hereditary Diseases Genetic,Native American,0.52
+191,87,86,Female,White,Blue,O+,Infectious Disease,Han Chinese,0.31
+184,89,42,Female,Black,Blue,A+,Hereditary Diseases Non-Genetic,Japanese,0.45
+173,98,79,Female,Brown,Blue,A-,Hereditary Diseases Genetic,European American,0.46
+177,92,49,Female,Black,Black,B-,Too Healthy,Greek,0.48
+193,95,48,Female,Brown,Green,AB-,Deficiency Diseases,Zulu,0.43
+182,89,17,Male,Black,Green,O-,Hereditary Diseases Genetic,Danish,0.34
+169,89,32,Male,White,Blue,O-,Hereditary Diseases Non-Genetic,European American,0.49
+176,83,77,Female,Brown,Black,AB+,Healthy,Somali,0.39
+171,69,37,Female,White,Blue,O-,Too Healthy,Basque,0.49
+194,78,23,Male,Black,Green,O+,Healthy,Danish,0.32
+176,71,31,Female,White,Blue,B-,Healthy,Danish,0.51
+193,73,71,Male,White,Brown,O+,Hereditary Diseases Genetic,Xhosa,0.3
+176,74,84,Female,White,Black,O-,physiological diseases,Afro-Colombian,0.41
+186,76,66,Male,Black,Brown,O+,Deficiency Diseases,Mexican,0.42
+175,95,53,Male,Black,Black,O-,Hereditary Diseases Non-Genetic,Korean,0.33
+184,90,47,Male,Brown,Green,A-,Hereditary Diseases Genetic,Micronesian,0.48
+187,86,45,Male,Blond,Brown,A-,Hereditary Diseases Genetic,Berber,0.49
+170,110,56,Female,Brown,Black,B+,Too Healthy,Bengali,0.38
+165,82,30,Male,Black,Green,B-,Hereditary Diseases Non-Genetic,Cuban,0.38
+165,99,26,Female,Brown,Brown,O+,Hereditary Diseases Genetic,Greek,0.33
+165,105,70,Female,White,Green,A-,Healthy,Mestizo,0.43
+185,82,25,Male,Blond,Green,B-,Healthy,Oromo,0.41
+175,85,16,Male,Black,Black,B-,Hereditary Diseases Genetic,Ashkenazi Jewish,0.39
+192,76,43,Female,Black,Black,B+,Too Healthy,Micronesian,0.33
+189,105,67,Male,Blond,Black,O-,Too Healthy,Ukrainian,0.51
+189,80,19,Male,White,Green,A+,Too Healthy,Ashkenazi Jewish,0.49
+171,91,49,Male,White,Brown,A-,Deficiency Diseases,French,0.4
+180,73,26,Male,Black,Green,O+,Too Healthy,Hutu,0.51
+187,85,24,Male,Black,Black,O-,O-,Serbian,0.36
+167,87,46,Female,Blond,Green,AB-,Hereditary Diseases Non-Genetic,White Latin American,0.37
+183,87,83,Female,White,Brown,B-,Infectious Disease,Arab (Middle Eastern),0.38
+185,92,38,Female,Blond,Blue,A+,physiological diseases,Hazara,0.48
+167,65,61,Female,Blond,Green,O+,Hereditary Diseases Non-Genetic,Dinka,0.46
+167,104,18,Female,White,Black,AB-,Too Healthy,Czech,0.43
+180,65,73,Female,Black,Brown,A+,Hereditary Diseases Genetic,Hutu,0.34
+188,78,63,Female,White,Black,AB+,Healthy,Quechua,0.32
+188,92,54,Female,Blond,Blue,O-,O-,Tibetan,0.35
+179,107,37,Male,Brown,Black,A-,Deficiency Diseases,Latino,0.46
+171,77,25,Female,Black,Green,B+,Infectious Disease,French,0.42
+195,89,58,Female,White,Blue,B-,Hereditary Diseases Non-Genetic,Italian,0.37
+192,100,69,Female,White,Green,A-,physiological diseases,Punjabi,0.45
+177,102,51,Male,Black,Green,O-,Infectious Disease,Inuit,0.38
+173,104,48,Male,Brown,Black,A+,physiological diseases,Malay,0.33
+169,84,37,Male,Brown,Green,A+,O-,Mestizo,0.51
+191,80,75,Male,Blond,Black,O+,Hereditary Diseases Non-Genetic,Han Chinese,0.44
+189,81,48,Female,Brown,Blue,O+,Deficiency Diseases,Inuit,0.42
+179,108,46,Male,White,Blue,B-,O-,Arab,0.37
+179,89,44,Male,Black,Green,A-,Hereditary Diseases Non-Genetic,Uyghur,0.39
+168,90,37,Female,Black,Brown,B+,Healthy,Thai,0.3
+168,74,17,Female,Black,Green,O-,Infectious Disease,Roma,0.5
+195,98,88,Male,Brown,Green,A+,Hereditary Diseases Genetic,Amhara,0.41
+187,92,41,Female,Black,Black,O+,Healthy,Tutsi,0.48
+169,101,35,Male,Blond,Brown,B-,O-,Hutu,0.55
+177,107,66,Male,Brown,Green,B+,Healthy,European American,0.5
+167,92,79,Female,White,Green,A+,Infectious Disease,Hawaiian,0.49
+195,76,49,Male,White,Black,A+,Deficiency Diseases,White American,0.56
+169,99,46,Male,White,Brown,O-,Hereditary Diseases Genetic,White Latin American,0.4
+191,68,67,Female,White,Black,O-,Hereditary Diseases Non-Genetic,Arab,0.53
+190,103,75,Female,White,Blue,O-,O-,Turkish,0.44
+167,75,71,Male,Black,Brown,B-,Healthy,White Latin American,0.46
+184,66,22,Male,Black,Blue,O-,Too Healthy,Berber,0.33
+177,83,34,Male,Blond,Blue,O-,Too Healthy,Indigenous South American,0.49
+173,73,15,Female,Black,Brown,AB-,O-,Somali,0.33
+193,100,68,Male,Brown,Blue,A+,Hereditary Diseases Non-Genetic,Berber,0.4
+181,87,88,Male,White,Green,O-,Infectious Disease,Italian,0.42
+178,75,70,Female,Blond,Green,AB+,Infectious Disease,Bengali,0.51
+189,93,61,Female,Black,Green,O-,Deficiency Diseases,Punjabi,0.54
+171,110,77,Female,Brown,Black,AB+,Too Healthy,Fijian,0.34
+187,91,63,Female,White,Black,AB+,Hereditary Diseases Genetic,Dinka,0.48
+194,75,45,Male,Brown,Black,B+,Hereditary Diseases Non-Genetic,Cherokee,0.34
+192,75,61,Female,Black,Blue,AB-,Deficiency Diseases,Tutsi,0.48
+180,88,80,Female,Brown,Black,AB-,physiological diseases,Bengali,0.46
+188,106,17,Female,Blond,Black,AB-,Deficiency Diseases,White Latin American,0.55
+178,70,48,Female,Black,Brown,A-,physiological diseases,Dinka,0.56
+179,84,52,Male,Brown,Green,AB-,Deficiency Diseases,Tongan,0.48
+172,66,70,Male,Black,Black,AB-,Hereditary Diseases Non-Genetic,Norwegian,0.35
+172,67,89,Male,Blond,Black,A-,Hereditary Diseases Genetic,Turkish,0.52
+170,82,90,Male,Blond,Black,A+,Healthy,Hazara,0.45
+194,77,56,Male,Black,Blue,AB+,Too Healthy,Navajo,0.52
+192,109,28,Female,Brown,Green,B-,Deficiency Diseases,Mapuche,0.39
+188,73,59,Male,Brown,Blue,B-,Hereditary Diseases Non-Genetic,Aboriginal Australian,0.56
+184,75,19,Male,Black,Green,O+,physiological diseases,Igbo,0.48
+169,110,39,Female,Blond,Black,O-,Too Healthy,Xhosa,0.49
+186,96,28,Female,Black,Green,AB-,Too Healthy,Tibetan,0.47
+173,72,22,Female,Black,Black,AB+,Hereditary Diseases Genetic,Czech,0.55
+169,91,48,Female,Blond,Green,A-,Hereditary Diseases Genetic,French,0.42
+189,69,52,Female,Blond,Blue,B+,O-,Fijian,0.55
+185,80,79,Female,Blond,Black,B-,Infectious Disease,Hawaiian,0.47
+169,87,35,Male,Black,Black,AB-,Deficiency Diseases,Māori,0.33
+181,68,73,Female,Brown,Green,A+,Hereditary Diseases Genetic,Ukrainian,0.45
+168,83,65,Female,Brown,Black,AB+,Hereditary Diseases Genetic,Aymara,0.53
+181,90,19,Male,Blond,Brown,O+,Too Healthy,Tamil,0.53
+189,85,75,Female,Blond,Black,A+,O-,Afro-Colombian,0.52
+177,78,78,Female,White,Blue,B-,Deficiency Diseases,Roma,0.34
+170,78,53,Female,White,Green,AB+,Deficiency Diseases,English,0.39
+176,68,21,Female,Blond,Black,B-,Too Healthy,Basque,0.44
+195,65,16,Male,Blond,Blue,O+,Too Healthy,Turkish,0.38
+192,65,90,Female,White,Green,AB+,Deficiency Diseases,Kurdish,0.49
+195,81,20,Female,Brown,Brown,AB+,Infectious Disease,Uyghur,0.35
+168,107,17,Female,Black,Blue,AB+,Too Healthy,Cuban,0.53
+193,101,15,Female,Black,Brown,A-,O-,Mapuche,0.51
+184,94,42,Female,Black,Blue,AB-,Healthy,Punjabi,0.41
+189,91,21,Female,Blond,Blue,O+,O-,Afro-Brazilian,0.45
+195,80,83,Male,Blond,Brown,B-,physiological diseases,Papua New Guinean,0.32
+181,100,24,Male,Brown,Black,AB+,physiological diseases,Czech,0.45
+193,85,29,Female,Black,Green,B-,Deficiency Diseases,Mapuche,0.52
+173,110,38,Female,White,Brown,A+,O-,Berber,0.36
+182,98,38,Female,White,Black,AB+,Healthy,Ashkenazi Jewish,0.49
+192,91,88,Female,Blond,Green,A+,Deficiency Diseases,Sindhi,0.31
+185,92,33,Male,Blond,Blue,A-,Infectious Disease,Swedish,0.34
+191,86,62,Female,White,Blue,AB-,Hereditary Diseases Genetic,Basque,0.5
+190,91,40,Female,White,Black,B+,Hereditary Diseases Genetic,Berber,0.55
+171,98,26,Female,Brown,Black,O-,Deficiency Diseases,Aboriginal Australian,0.42
+169,70,19,Male,Blond,Brown,B+,O-,Native American,0.53
+187,80,54,Female,Black,Black,B-,Infectious Disease,Mapuche,0.48
+192,66,52,Female,Blond,Brown,B+,Hereditary Diseases Genetic,Afro-Colombian,0.33
+191,93,62,Female,Brown,Blue,B+,physiological diseases,African American,0.31
+167,98,17,Female,White,Brown,O+,Deficiency Diseases,Swedish,0.36
+183,67,25,Male,Brown,Black,B+,Hereditary Diseases Non-Genetic,European American,0.55
+185,104,78,Female,Blond,Blue,AB+,Too Healthy,Afro-Colombian,0.49
+176,71,68,Male,Brown,Brown,AB+,Too Healthy,Zulu,0.43
+188,81,26,Male,Blond,Black,O+,Infectious Disease,Puerto Rican,0.4
+193,88,84,Female,Blond,Green,O+,Too Healthy,African American,0.42
+166,101,22,Male,Blond,Blue,AB-,Deficiency Diseases,Cuban,0.5
+172,95,25,Male,Black,Brown,O-,Healthy,Mexican,0.46
+171,66,29,Male,Black,Brown,B+,Hereditary Diseases Genetic,Igbo,0.32
+174,77,45,Female,Blond,Green,AB+,Too Healthy,Cuban,0.42
+189,78,59,Male,Blond,Blue,AB-,Too Healthy,Tajik,0.48
+181,107,29,Female,Black,Green,A-,Too Healthy,Arab (Middle Eastern),0.32
+169,75,54,Female,Brown,Green,B+,Hereditary Diseases Genetic,Persian,0.34
+172,108,77,Male,White,Green,O+,Too Healthy,Serbian,0.3
+187,109,49,Male,Blond,Black,AB-,Hereditary Diseases Non-Genetic,Indigenous South American,0.35
+177,110,44,Male,White,Black,A+,Deficiency Diseases,Norwegian,0.46
+186,95,85,Male,Blond,Brown,AB+,Healthy,Dinka,0.49
+173,93,87,Male,Black,Blue,A+,Healthy,Russian,0.52
+179,109,27,Male,Blond,Brown,A-,Hereditary Diseases Genetic,Norwegian,0.36
+191,91,30,Female,White,Blue,AB+,physiological diseases,Japanese,0.43
+179,94,65,Male,Blond,Blue,A-,Hereditary Diseases Genetic,Malay,0.5
+167,104,72,Female,Brown,Green,AB+,Hereditary Diseases Non-Genetic,Serbian,0.33
+181,102,29,Female,Black,Brown,B-,O-,European American,0.36
+192,90,56,Male,Brown,Blue,AB+,Healthy,Sindhi,0.37
+184,76,41,Male,White,Black,O-,Healthy,White Latin American,0.5
+190,107,52,Male,Black,Brown,AB-,Deficiency Diseases,English,0.5
+190,72,32,Female,Black,Brown,A-,Infectious Disease,German,0.39
+192,94,24,Female,Brown,Black,B+,Deficiency Diseases,Serbian,0.53
+168,91,77,Male,Blond,Green,AB-,Hereditary Diseases Non-Genetic,Sioux,0.37
+178,75,18,Male,Black,Green,O-,physiological diseases,Serbian,0.39
+177,92,36,Female,Black,Green,O+,Deficiency Diseases,Yoruba,0.43
+192,107,20,Female,Blond,Green,B-,Hereditary Diseases Non-Genetic,Mongolian,0.36
+165,88,73,Male,White,Blue,B+,Healthy,Hausa,0.42
+170,104,73,Female,Brown,Brown,AB-,Healthy,White Latin American,0.32
+168,73,32,Male,White,Brown,B+,Deficiency Diseases,Māori,0.43
+176,95,27,Male,White,Brown,A+,physiological diseases,Malay,0.51
+179,72,57,Female,White,Black,O+,Infectious Disease,Somali,0.39
+167,94,72,Female,White,Black,B+,Healthy,Malay,0.46
+187,75,59,Male,Brown,Green,AB-,Too Healthy,Latino,0.45
+192,103,82,Female,White,Blue,AB+,Hereditary Diseases Non-Genetic,Japanese,0.42
+165,99,88,Male,White,Green,AB-,Hereditary Diseases Non-Genetic,Igbo,0.47
+168,109,34,Male,Blond,Black,B-,O-,Hawaiian,0.49
+184,77,34,Male,Black,Black,O+,Too Healthy,Mestizo,0.53
+178,66,56,Male,White,Brown,B+,Too Healthy,Somali,0.52
+192,71,36,Male,Black,Blue,B-,Too Healthy,Hausa,0.38
+172,105,78,Female,White,Blue,B+,Hereditary Diseases Non-Genetic,Norwegian,0.32
+191,76,86,Female,Brown,Green,A+,physiological diseases,English,0.51
+174,65,75,Male,Blond,Green,O+,Too Healthy,Mexican,0.35
+188,71,83,Male,Brown,Green,AB+,Too Healthy,Filipino,0.4
+167,68,18,Male,Brown,Blue,B-,Infectious Disease,Basque,0.46
+185,102,60,Female,Black,Blue,A+,Infectious Disease,Basque,0.35
+175,106,32,Female,Black,Green,O-,O-,Hutu,0.4
+185,106,16,Female,White,Blue,A+,Hereditary Diseases Genetic,Mexican,0.46
+183,109,56,Male,White,Blue,B-,physiological diseases,English,0.32
+169,106,28,Male,Black,Black,A-,physiological diseases,Puerto Rican,0.53
+192,66,61,Female,White,Black,A+,Hereditary Diseases Non-Genetic,Aymara,0.34
+173,110,15,Female,Brown,Blue,AB-,Deficiency Diseases,Greek,0.52
+183,85,35,Female,White,Brown,A-,Deficiency Diseases,Cherokee,0.36
+189,92,29,Male,Black,Black,AB+,Infectious Disease,Uyghur,0.44
+195,92,33,Female,Brown,Brown,A+,Hereditary Diseases Non-Genetic,Filipino,0.45
+165,94,84,Female,Brown,Green,A+,Deficiency Diseases,Malay,0.33
+178,81,52,Male,Black,Green,AB-,Deficiency Diseases,Cuban,0.44
+182,76,47,Female,Brown,Brown,A-,Deficiency Diseases,Roma,0.34
+195,77,46,Female,White,Black,A+,O-,Sephardic Jewish,0.37
+179,66,47,Male,Black,Blue,O+,O-,Navajo,0.39
+176,100,53,Male,Blond,Black,AB+,Deficiency Diseases,Ashkenazi Jewish,0.51
+185,93,63,Female,White,Black,A-,Infectious Disease,Ashkenazi Jewish,0.41
+184,80,19,Male,Black,Green,O-,Too Healthy,Micronesian,0.33
+171,110,29,Male,White,Brown,O+,Hereditary Diseases Non-Genetic,Ukrainian,0.39
+171,106,23,Female,Brown,Brown,O-,O-,Norwegian,0.35
+187,96,86,Male,Brown,Black,B+,Deficiency Diseases,Spanish,0.45
+172,92,75,Male,White,Blue,AB+,Healthy,Inuit,0.33
+189,93,35,Male,Brown,Black,B-,Hereditary Diseases Genetic,Afro-Caribbean,0.31
+179,105,54,Male,Brown,Brown,B-,Healthy,Dinka,0.31
+167,96,34,Male,Blond,Green,A-,Hereditary Diseases Non-Genetic,British,0.56
+195,92,49,Male,Brown,Brown,B+,Healthy,Native American,0.53
+188,95,17,Male,White,Green,O-,Deficiency Diseases,Punjabi,0.44
+178,84,90,Male,Blond,Blue,B+,Healthy,Yoruba,0.43
+183,86,74,Male,White,Green,O-,Hereditary Diseases Non-Genetic,Igbo,0.38
+175,81,70,Female,Brown,Black,B+,Deficiency Diseases,Native American,0.47
+193,107,75,Female,Brown,Black,A-,Hereditary Diseases Non-Genetic,Xhosa,0.38
+178,87,29,Male,Black,Blue,AB+,Infectious Disease,Punjabi,0.46
+179,99,33,Male,Brown,Blue,B-,Hereditary Diseases Non-Genetic,White American,0.44
+176,75,48,Female,White,Blue,O-,O-,Russian,0.43
+176,82,21,Male,Black,Green,B+,Too Healthy,White Latin American,0.55
+179,79,71,Male,White,Black,A-,Deficiency Diseases,European American,0.42
+190,105,70,Female,White,Black,B-,Hereditary Diseases Non-Genetic,Cuban,0.5
+168,69,81,Female,White,Blue,AB-,Deficiency Diseases,Xhosa,0.36
+193,102,71,Female,Blond,Green,A-,Hereditary Diseases Non-Genetic,Norwegian,0.41
+186,108,43,Female,White,Black,AB-,O-,Turkish,0.48
+183,75,79,Male,White,Blue,B-,physiological diseases,Oromo,0.52
+167,101,62,Male,Brown,Brown,B-,Infectious Disease,Arab,0.52
+183,89,72,Male,Brown,Black,B-,Too Healthy,Afro-Colombian,0.49
+171,101,28,Female,Brown,Brown,O+,Too Healthy,Fijian,0.49
+166,105,42,Female,Black,Brown,O+,Too Healthy,Xhosa,0.31
+190,96,25,Female,Blond,Blue,B-,physiological diseases,Ashkenazi Jewish,0.44
+178,93,88,Male,Brown,Brown,O-,physiological diseases,Korean,0.49
+182,72,27,Male,Brown,Brown,B-,Hereditary Diseases Genetic,Thai,0.42
+165,73,65,Female,Blond,Green,O-,Hereditary Diseases Non-Genetic,Thai,0.34
+176,87,16,Male,Brown,Brown,O+,Deficiency Diseases,Tongan,0.52
+172,68,28,Male,Blond,Brown,O+,Too Healthy,Xhosa,0.36
+193,104,45,Female,Black,Black,O-,physiological diseases,Roma,0.51
+167,103,32,Male,Black,Green,AB+,Hereditary Diseases Genetic,Norwegian,0.52
+167,93,49,Male,Blond,Blue,A-,physiological diseases,Tongan,0.36
+168,81,33,Female,Brown,Green,B+,physiological diseases,Arab,0.45
+174,69,56,Female,Brown,Black,A+,O-,Afro-Brazilian,0.46
+167,86,43,Male,Brown,Brown,AB-,Infectious Disease,Hutu,0.47
+186,79,76,Female,Brown,Black,O+,Infectious Disease,Swedish,0.41
+189,86,85,Male,Brown,Brown,O+,Healthy,Irish,0.53
+180,90,43,Female,Black,Blue,O+,physiological diseases,Persian,0.48
+172,82,62,Male,White,Brown,B+,physiological diseases,Tamil,0.4
+189,86,18,Female,Blond,Blue,AB+,O-,Vietnamese,0.41
+182,66,73,Male,Blond,Brown,AB-,Hereditary Diseases Non-Genetic,White Latin American,0.31
+179,71,89,Male,Black,Black,B+,Too Healthy,Igbo,0.37
+171,91,82,Female,Brown,Green,AB+,Too Healthy,Hausa,0.31
+176,100,18,Female,Blond,Black,A+,O-,Hutu,0.53
+188,81,16,Female,Brown,Blue,O-,Hereditary Diseases Non-Genetic,French,0.49
+169,97,52,Male,Blond,Green,B-,Infectious Disease,Aboriginal Australian,0.33
+181,86,39,Female,Brown,Green,AB+,Hereditary Diseases Genetic,Turkish,0.45
+169,76,29,Male,Brown,Black,AB-,Deficiency Diseases,Gujarati,0.43
+182,107,73,Female,Black,Brown,O+,Hereditary Diseases Genetic,Mapuche,0.56
+173,86,90,Male,Blond,Brown,O+,Too Healthy,Mongolian,0.38
+166,108,70,Male,Black,Black,AB-,physiological diseases,Thai,0.49
+179,96,60,Female,Black,Green,A-,Hereditary Diseases Non-Genetic,Malay,0.52
+181,96,62,Female,Brown,Brown,AB+,physiological diseases,Gujarati,0.49
+173,88,25,Female,White,Black,O+,Deficiency Diseases,White Latin American,0.34
+172,87,58,Female,Black,Brown,A-,Hereditary Diseases Non-Genetic,Zulu,0.56
+187,79,54,Male,Brown,Blue,O-,Infectious Disease,Polish,0.47
+169,100,59,Female,Black,Green,A+,Hereditary Diseases Non-Genetic,Sephardic Jewish,0.42
+165,103,49,Female,White,Green,AB-,Hereditary Diseases Non-Genetic,Hutu,0.32
+191,79,52,Female,Black,Brown,AB-,Hereditary Diseases Genetic,Cherokee,0.56
+189,98,17,Male,Brown,Black,AB-,Healthy,Bengali,0.54
+179,109,17,Female,Black,Blue,A-,physiological diseases,Hutu,0.32
+186,66,69,Male,Blond,Black,B+,Hereditary Diseases Non-Genetic,Somali,0.47
+191,96,89,Female,Brown,Black,O-,Healthy,Mongolian,0.54
+172,78,78,Female,Brown,Brown,O+,physiological diseases,Turkish,0.44
+183,101,84,Female,Blond,Blue,A+,Too Healthy,Hazara,0.44
+169,79,88,Female,Blond,Green,A+,Hereditary Diseases Genetic,Samoan,0.36
+192,70,47,Female,Black,Blue,A+,physiological diseases,Malay,0.51
+178,89,30,Male,Brown,Brown,O+,physiological diseases,Afro-Brazilian,0.53
+193,68,59,Female,Black,Green,AB-,Hereditary Diseases Non-Genetic,Mapuche,0.42
+166,65,36,Male,White,Blue,B+,Too Healthy,British,0.42
+166,74,60,Female,Black,Black,B-,Infectious Disease,Uyghur,0.45
+176,76,19,Female,Blond,Green,B-,Hereditary Diseases Genetic,Tajik,0.43
+179,83,86,Male,White,Black,A+,Too Healthy,Roma,0.34
+170,73,61,Male,Black,Blue,B+,Too Healthy,Mongolian,0.41
+176,85,74,Male,Black,Black,A-,Healthy,Thai,0.42
+178,66,43,Male,White,Blue,B+,physiological diseases,Spanish,0.51
+179,83,87,Female,Brown,Green,A-,O-,Thai,0.45
+176,108,84,Female,Blond,Brown,O+,Hereditary Diseases Genetic,Hazara,0.39
+189,93,84,Male,Blond,Blue,AB+,Hereditary Diseases Genetic,Papua New Guinean,0.37
+189,71,51,Female,Blond,Blue,B-,Too Healthy,Igbo,0.39
+192,70,71,Male,Blond,Black,B-,Healthy,Sindhi,0.4
+172,65,31,Male,White,Blue,A+,Hereditary Diseases Genetic,British,0.42
+182,89,82,Male,Brown,Blue,O-,O-,German,0.34
+176,67,89,Male,Brown,Brown,O-,Hereditary Diseases Genetic,Afro-Colombian,0.33
+176,80,57,Female,Blond,Brown,AB-,Hereditary Diseases Non-Genetic,Spanish,0.32
+173,76,60,Female,Brown,Brown,AB-,Hereditary Diseases Genetic,Mestizo,0.43
+187,86,29,Female,Brown,Black,AB-,Healthy,Italian,0.35
+166,104,22,Female,Brown,Green,A-,Too Healthy,Aymara,0.47
+170,89,38,Male,White,Brown,B-,Too Healthy,Spanish,0.36
+172,106,21,Female,Black,Black,A-,Infectious Disease,Italian,0.56
+181,83,77,Female,White,Blue,B-,physiological diseases,European American,0.45
+175,73,22,Male,Blond,Black,A-,physiological diseases,Cherokee,0.54
+183,73,34,Male,Blond,Green,B+,Hereditary Diseases Non-Genetic,Hawaiian,0.4
+167,75,64,Female,White,Brown,B+,Too Healthy,Korean,0.35
+165,102,90,Male,White,Black,B-,Healthy,Vietnamese,0.39
+193,104,21,Female,Brown,Blue,O-,Deficiency Diseases,Irish,0.3
+172,93,61,Female,Brown,Black,O-,O-,Arab (Middle Eastern),0.56
+169,107,31,Female,Brown,Green,O+,Healthy,Japanese,0.45
+183,68,83,Female,Brown,Brown,O-,Infectious Disease,Micronesian,0.53
+172,99,57,Male,Brown,Brown,B+,Healthy,Afro-Brazilian,0.54
+191,69,86,Female,Black,Brown,O+,O-,Punjabi,0.32
+182,86,49,Male,White,Brown,AB-,Hereditary Diseases Non-Genetic,White American,0.4
+177,93,48,Male,White,Brown,B-,Too Healthy,Japanese,0.36
+187,93,51,Female,Black,Green,O+,Hereditary Diseases Non-Genetic,White Latin American,0.44
+192,98,85,Female,Blond,Blue,O+,Too Healthy,Arab (Middle Eastern),0.45
+175,94,23,Female,White,Brown,A-,Hereditary Diseases Non-Genetic,Indigenous South American,0.37
+180,92,71,Female,Black,Black,AB+,Hereditary Diseases Non-Genetic,Afro-Colombian,0.47
+191,77,21,Female,White,Black,B-,Hereditary Diseases Genetic,English,0.32
+188,69,33,Female,Blond,Blue,B-,Hereditary Diseases Non-Genetic,Navajo,0.33
+179,65,58,Female,Black,Green,A-,Too Healthy,European American,0.55
+186,75,88,Female,Black,Brown,O+,Too Healthy,Persian,0.35
+194,81,63,Male,Brown,Blue,AB-,Healthy,British,0.55
+170,109,25,Male,Blond,Black,A+,Healthy,Oromo,0.34
+176,90,50,Male,White,Brown,AB+,Healthy,Italian,0.39
+176,83,63,Male,Brown,Black,O+,Healthy,Irish,0.32
+192,79,32,Female,Brown,Blue,AB-,Infectious Disease,Arab (Middle Eastern),0.37
+189,107,86,Male,Black,Green,AB+,Healthy,Indigenous South American,0.49
+173,92,68,Female,Black,Black,AB+,Hereditary Diseases Non-Genetic,White Latin American,0.43
+165,110,66,Female,Blond,Blue,B+,Too Healthy,Tibetan,0.36
+194,72,50,Female,Black,Brown,A+,O-,Irish,0.55
+178,91,68,Female,Brown,Blue,O+,physiological diseases,Papua New Guinean,0.32
+193,90,24,Male,Blond,Blue,B+,Too Healthy,Aboriginal Australian,0.44
+189,74,42,Female,Black,Green,B-,Too Healthy,White American,0.33
+179,88,41,Female,Black,Black,O+,physiological diseases,Han Chinese,0.55
+179,96,71,Male,White,Brown,A-,Infectious Disease,French,0.42
+176,66,77,Male,White,Black,AB-,Hereditary Diseases Genetic,Arab,0.39
+183,90,87,Female,White,Black,AB-,O-,Irish,0.48
+194,69,76,Male,White,Black,O-,Too Healthy,Quechua,0.37
+190,103,34,Female,White,Black,A-,Deficiency Diseases,Papua New Guinean,0.5
+187,68,45,Male,Blond,Green,O-,Too Healthy,Turkish,0.39
+181,93,71,Female,White,Black,B-,Healthy,English,0.36
+185,103,87,Female,White,Brown,B-,Hereditary Diseases Non-Genetic,Mapuche,0.44
+191,85,60,Female,White,Brown,AB-,Hereditary Diseases Non-Genetic,Thai,0.3
+171,78,55,Male,Blond,Green,B+,Too Healthy,African American,0.38
+182,69,54,Male,Black,Blue,AB+,O-,Tajik,0.34
+185,93,65,Female,White,Black,O+,Hereditary Diseases Genetic,Aymara,0.4
+180,92,25,Male,Brown,Brown,AB-,Hereditary Diseases Non-Genetic,Hausa,0.56
+179,73,31,Male,White,Brown,A+,Infectious Disease,Serbian,0.47
+175,98,24,Male,Brown,Brown,A-,Infectious Disease,Yoruba,0.41
+183,110,66,Male,Black,Blue,O-,Deficiency Diseases,Aboriginal Australian,0.44
+186,72,83,Male,Blond,Black,AB+,Deficiency Diseases,Native American,0.55
+169,97,40,Male,Blond,Blue,B+,physiological diseases,Czech,0.33
+191,71,90,Female,Blond,Brown,A+,physiological diseases,Russian,0.48
+178,97,57,Female,Brown,Brown,B-,Hereditary Diseases Non-Genetic,Amhara,0.34
+184,69,19,Female,Black,Blue,A-,Healthy,Turkish,0.42
+180,105,52,Male,Brown,Brown,AB+,Too Healthy,Hispanic,0.56
+184,71,38,Male,White,Blue,A-,O-,Native American,0.33
+188,88,79,Female,Brown,Brown,A+,Infectious Disease,Arab (Middle Eastern),0.36
+180,87,80,Male,Black,Blue,A+,Too Healthy,Czech,0.4
+170,100,59,Male,Black,Green,B+,Deficiency Diseases,Navajo,0.52
+193,98,23,Male,Blond,Black,AB-,Deficiency Diseases,Filipino,0.42
+186,93,15,Female,Blond,Blue,O+,Too Healthy,Tamil,0.48
+177,91,59,Female,White,Blue,B+,physiological diseases,British,0.32
+181,104,77,Female,White,Black,B-,Too Healthy,Punjabi,0.52
+189,65,38,Male,Black,Black,AB+,Healthy,Xhosa,0.5
+183,66,71,Male,Blond,Green,B+,Hereditary Diseases Non-Genetic,Samoan,0.35
+191,72,62,Male,White,Green,AB+,Deficiency Diseases,Russian,0.43
+177,86,69,Female,Brown,Brown,O+,Deficiency Diseases,Czech,0.49
+165,98,56,Male,Brown,Black,A+,Infectious Disease,Greek,0.33
+186,86,48,Female,Black,Black,B-,Too Healthy,Irish,0.33
+187,105,43,Female,Brown,Black,A-,O-,Ashkenazi Jewish,0.36
+177,84,65,Female,Brown,Blue,AB+,Infectious Disease,Inuit,0.5
+194,95,27,Male,Brown,Green,A-,Deficiency Diseases,Kurdish,0.48
+177,90,23,Female,Black,Green,AB+,O-,Ukrainian,0.35
+170,97,23,Male,Brown,Brown,AB+,Too Healthy,Xhosa,0.32
+185,99,46,Male,White,Blue,O-,Hereditary Diseases Non-Genetic,Persian,0.39
+181,81,72,Male,Brown,Green,B-,Infectious Disease,African American,0.39
+188,101,39,Female,Brown,Green,O+,physiological diseases,Dinka,0.49
+170,71,31,Female,Blond,Black,AB+,Deficiency Diseases,Indigenous South American,0.33
+179,87,32,Male,Blond,Blue,B-,Deficiency Diseases,Norwegian,0.31
+165,69,18,Female,Black,Black,A-,Infectious Disease,Arab (Middle Eastern),0.31
+184,66,89,Male,Blond,Brown,AB-,Healthy,Japanese,0.36
+189,110,47,Female,Brown,Brown,A+,Hereditary Diseases Non-Genetic,Sioux,0.52
+184,103,74,Male,Blond,Blue,B-,Healthy,German,0.37
+172,93,55,Male,White,Brown,A-,Infectious Disease,Mongolian,0.34
+194,97,74,Female,Brown,Green,A+,Hereditary Diseases Non-Genetic,Amhara,0.35
+190,107,18,Male,Black,Blue,A-,O-,Mexican,0.39
+188,87,53,Female,White,Black,A+,physiological diseases,Indigenous South American,0.46
+176,65,21,Male,Black,Black,O+,Infectious Disease,European American,0.3
+173,90,34,Female,White,Black,A+,physiological diseases,Arab,0.41
+167,69,29,Female,Brown,Green,A-,physiological diseases,Inuit,0.38
+188,108,29,Female,White,Green,A+,Hereditary Diseases Non-Genetic,Danish,0.31
+186,71,57,Female,Blond,Green,AB+,Healthy,Tajik,0.52
+188,98,34,Male,Blond,Brown,A+,physiological diseases,Aboriginal Australian,0.53
+167,72,57,Male,Blond,Green,O+,O-,Mapuche,0.54
+178,103,77,Male,Brown,Green,B-,Deficiency Diseases,Afro-Colombian,0.54
+178,65,61,Female,Brown,Black,B-,Healthy,Quechua,0.37
+192,93,85,Male,Blond,Black,A-,physiological diseases,Hutu,0.55
+188,71,77,Male,Black,Black,AB+,Too Healthy,Aboriginal Australian,0.31
+191,99,79,Male,Black,Green,A+,Hereditary Diseases Genetic,Danish,0.41
+182,98,36,Female,Blond,Brown,A+,Deficiency Diseases,Bengali,0.4
+165,103,84,Female,White,Blue,O+,physiological diseases,Tajik,0.34
+184,80,54,Male,Blond,Blue,O-,Deficiency Diseases,Serbian,0.43
+189,108,29,Female,Brown,Blue,B-,Infectious Disease,English,0.43
+179,71,29,Female,White,Black,O-,Healthy,White Latin American,0.4
+191,77,54,Male,Brown,Green,B-,Healthy,Navajo,0.44
+172,84,61,Female,Blond,Black,AB-,Too Healthy,Somali,0.38
+173,80,47,Female,Blond,Blue,A+,Hereditary Diseases Genetic,Ashkenazi Jewish,0.39
+167,94,45,Male,Brown,Blue,B+,Hereditary Diseases Genetic,Arab (Middle Eastern),0.38
+192,92,53,Male,Blond,Green,AB-,Infectious Disease,Hazara,0.48
+177,88,26,Female,Brown,Blue,O-,physiological diseases,Mestizo,0.53
+186,83,75,Male,Brown,Green,AB+,Hereditary Diseases Non-Genetic,Hazara,0.56
+166,67,78,Male,White,Blue,A-,Too Healthy,Afro-Caribbean,0.38
+190,85,69,Female,Brown,Brown,B-,Hereditary Diseases Non-Genetic,German,0.47
+193,97,26,Female,Black,Blue,B+,Healthy,Greek,0.5
+168,84,64,Male,Black,Brown,B+,Too Healthy,Bengali,0.38
+168,91,34,Female,Blond,Green,O-,Hereditary Diseases Genetic,Afro-Colombian,0.46
+171,106,89,Male,White,Blue,O+,Deficiency Diseases,Igbo,0.55
+188,83,18,Female,Black,Green,AB-,Hereditary Diseases Non-Genetic,Ukrainian,0.43
+194,68,81,Female,Brown,Green,O+,Hereditary Diseases Non-Genetic,Berber,0.53
+170,79,81,Female,Brown,Green,O-,Hereditary Diseases Genetic,Czech,0.52
+194,71,19,Female,Brown,Green,AB-,Hereditary Diseases Non-Genetic,Polish,0.4
+187,105,75,Female,Brown,Black,A-,O-,Zulu,0.4
+185,93,60,Male,Blond,Black,AB-,Too Healthy,Micronesian,0.53
+187,77,29,Male,Brown,Blue,AB-,Hereditary Diseases Genetic,Roma,0.35
+190,76,49,Male,White,Blue,AB+,O-,Native American,0.46
+170,102,27,Female,Blond,Blue,AB+,Too Healthy,Tutsi,0.45
+185,105,66,Female,White,Black,A-,Hereditary Diseases Non-Genetic,Czech,0.32
+178,89,70,Female,Brown,Black,O-,Too Healthy,Igbo,0.36
+172,70,77,Female,Brown,Black,B+,Too Healthy,Hawaiian,0.39
+169,80,21,Male,Blond,Blue,A+,O-,Turkish,0.32
+175,106,35,Female,White,Green,O+,O-,Turkish,0.31
+177,65,16,Male,Black,Green,A-,Infectious Disease,Czech,0.38
+169,91,65,Male,Brown,Blue,O+,Deficiency Diseases,Sioux,0.36
+178,98,29,Female,Black,Blue,B+,physiological diseases,Roma,0.48
+166,81,16,Female,Brown,Black,AB-,Hereditary Diseases Genetic,English,0.35
+179,94,66,Male,Brown,Brown,AB-,physiological diseases,Mexican,0.48
+172,103,70,Male,Brown,Black,B+,O-,Mestizo,0.39
+168,90,46,Female,Brown,Brown,B-,physiological diseases,Native American,0.4
+195,99,40,Female,White,Green,O+,physiological diseases,Samoan,0.39
+170,66,88,Male,White,Brown,B-,physiological diseases,Mongolian,0.36
+183,100,74,Female,Blond,Brown,AB-,Deficiency Diseases,Native American,0.49
+171,92,74,Male,Brown,Green,A-,O-,Persian,0.43
+186,82,50,Female,White,Brown,B-,Deficiency Diseases,Papua New Guinean,0.36
+177,109,74,Female,Black,Brown,A-,Deficiency Diseases,Somali,0.49
+174,91,90,Male,White,Green,A-,Infectious Disease,Arab (Middle Eastern),0.45
+189,105,71,Female,White,Brown,O+,Hereditary Diseases Non-Genetic,Mapuche,0.32
+168,79,30,Male,Black,Blue,O-,Too Healthy,Ashkenazi Jewish,0.45
+195,93,35,Male,White,Blue,A+,Too Healthy,Kurdish,0.52
+186,104,32,Female,Blond,Blue,O-,Hereditary Diseases Genetic,Turkish,0.55
+165,65,15,Female,Brown,Black,B+,Hereditary Diseases Non-Genetic,English,0.34
+179,74,26,Female,White,Brown,B-,Hereditary Diseases Non-Genetic,Indigenous South American,0.52
+169,97,81,Female,Blond,Blue,A-,Deficiency Diseases,Hawaiian,0.46
+181,65,34,Male,Black,Blue,AB+,Infectious Disease,Navajo,0.32
+183,85,50,Male,Brown,Black,O-,Infectious Disease,Korean,0.47
+184,87,68,Male,Blond,Brown,AB+,O-,Mapuche,0.4
+191,70,49,Female,Blond,Brown,AB-,physiological diseases,Igbo,0.45
+185,77,37,Female,Blond,Green,AB+,Hereditary Diseases Genetic,Arab,0.4
+195,85,68,Male,White,Green,A+,Hereditary Diseases Non-Genetic,Aboriginal Australian,0.31
+177,97,82,Male,Brown,Black,A+,Healthy,Mongolian,0.33
+178,86,74,Male,White,Blue,B+,Deficiency Diseases,Arab,0.55
+167,90,52,Female,White,Blue,A-,Hereditary Diseases Genetic,Cherokee,0.31
+176,69,47,Female,Brown,Brown,B+,Too Healthy,Ashkenazi Jewish,0.39
+167,76,85,Female,Black,Black,AB-,Healthy,Uyghur,0.56
+191,72,15,Female,Blond,Black,B+,Healthy,Afro-Caribbean,0.44
+175,87,78,Female,White,Brown,A+,Healthy,Ashkenazi Jewish,0.46
+172,94,27,Female,White,Green,B-,Hereditary Diseases Genetic,First Nations,0.43
+192,73,56,Male,Brown,Black,O+,Deficiency Diseases,Papua New Guinean,0.42
+189,98,24,Female,Brown,Brown,A+,physiological diseases,Tajik,0.46
+173,68,57,Female,Black,Brown,AB-,Deficiency Diseases,Amhara,0.36
+182,84,53,Male,Blond,Black,O+,O-,Mestizo,0.47
+172,70,30,Male,Blond,Brown,A+,Hereditary Diseases Genetic,Aymara,0.42
+170,103,87,Female,Blond,Black,O-,Deficiency Diseases,Hispanic,0.4
+185,103,17,Female,White,Brown,B+,Too Healthy,Hausa,0.51
+171,69,62,Male,Brown,Black,A-,O-,Tutsi,0.39
+193,75,15,Male,Blond,Black,O+,Hereditary Diseases Genetic,Czech,0.33
+185,72,17,Female,Blond,Brown,AB-,Healthy,Amhara,0.51
+184,90,27,Male,White,Green,A-,Infectious Disease,Irish,0.31
+187,77,40,Female,Black,Brown,B+,Hereditary Diseases Genetic,Inuit,0.35
+182,97,88,Female,Blond,Brown,B+,Infectious Disease,Cuban,0.51
+190,75,87,Male,White,Green,O-,Infectious Disease,Ukrainian,0.46
+191,89,90,Female,White,Black,A-,physiological diseases,Igbo,0.52
+176,65,80,Female,Black,Green,B-,Hereditary Diseases Genetic,Zulu,0.52
+188,83,41,Female,White,Blue,AB-,Hereditary Diseases Genetic,Ashkenazi Jewish,0.47
+179,69,44,Male,White,Blue,AB+,Healthy,Kurdish,0.4
+166,91,54,Male,Black,Black,AB+,Healthy,Berber,0.34
+174,93,57,Male,Blond,Black,AB+,physiological diseases,Italian,0.48
+179,84,33,Male,Blond,Brown,B-,physiological diseases,Igbo,0.46
+186,85,81,Male,Blond,Brown,O-,Healthy,Korean,0.44
+182,65,81,Female,Blond,Brown,A+,Hereditary Diseases Non-Genetic,Mapuche,0.4
+170,105,34,Female,Black,Green,O+,Too Healthy,Afro-Caribbean,0.36
+169,94,53,Female,Brown,Blue,O-,physiological diseases,Micronesian,0.34
+182,95,70,Male,White,Blue,O-,Too Healthy,Indigenous South American,0.37
+193,68,72,Male,Black,Brown,O+,physiological diseases,Xhosa,0.48
+183,65,15,Male,Black,Brown,B+,Healthy,Somali,0.37
+176,69,86,Male,Brown,Brown,A-,Healthy,Malay,0.34
+186,83,50,Male,Black,Blue,AB-,Deficiency Diseases,Greek,0.54
+195,90,23,Male,White,Black,O-,Hereditary Diseases Non-Genetic,Norwegian,0.44
+179,108,37,Male,Black,Green,AB-,Hereditary Diseases Non-Genetic,Yoruba,0.54
+187,80,59,Male,Black,Blue,O+,Deficiency Diseases,French,0.43
+176,76,51,Female,Black,Green,A+,Healthy,Tajik,0.34
+181,76,55,Female,Brown,Brown,O-,physiological diseases,Indigenous South American,0.47
+181,79,15,Male,Black,Black,O+,Infectious Disease,Norwegian,0.44
+190,90,54,Male,Black,Blue,A+,Healthy,Pashtun,0.53
+179,67,81,Female,White,Brown,AB+,O-,White American,0.48
+185,75,19,Female,White,Brown,AB+,physiological diseases,Sindhi,0.39
+165,95,89,Male,Blond,Brown,B-,Too Healthy,Kurdish,0.44
+189,110,42,Female,Brown,Blue,O-,Infectious Disease,Native American,0.36
+185,86,85,Male,Blond,Blue,B+,Deficiency Diseases,Persian,0.51
+168,94,81,Female,Brown,Brown,AB-,Infectious Disease,Aymara,0.33
+193,106,32,Male,Blond,Brown,B-,O-,Danish,0.47
+192,103,39,Male,White,Blue,O+,Infectious Disease,Hawaiian,0.55
+169,91,50,Female,Brown,Brown,AB+,Hereditary Diseases Genetic,Yoruba,0.32
+173,91,85,Male,Black,Green,AB-,Hereditary Diseases Genetic,British,0.43
+191,92,77,Female,Blond,Brown,B+,Hereditary Diseases Genetic,Han Chinese,0.42
+170,90,28,Female,Black,Green,O+,Healthy,Russian,0.44
+190,109,57,Male,Blond,Green,B-,Hereditary Diseases Genetic,Sindhi,0.36
+166,83,84,Male,White,Black,O+,physiological diseases,Hausa,0.34
+192,70,83,Female,Blond,Black,O+,Hereditary Diseases Genetic,Italian,0.39
+182,87,34,Female,White,Blue,B-,Deficiency Diseases,Xhosa,0.33
+185,93,20,Male,Brown,Blue,B+,Infectious Disease,Hausa,0.33
+194,96,28,Male,Blond,Green,O-,Deficiency Diseases,Mapuche,0.43
+182,72,70,Female,Black,Blue,A-,Deficiency Diseases,Russian,0.48
+192,103,90,Male,Blond,Green,O-,O-,Hispanic,0.41
+190,71,45,Male,Brown,Brown,A-,Hereditary Diseases Non-Genetic,Bengali,0.53
+186,74,81,Female,Brown,Green,B-,Hereditary Diseases Genetic,Tamil,0.31
+166,97,51,Female,Black,Black,AB-,O-,Samoan,0.36
+165,89,37,Male,Brown,Green,B+,Infectious Disease,Korean,0.46
+171,79,56,Female,White,Green,B+,Deficiency Diseases,Inuit,0.37
+183,87,85,Male,Brown,Green,B-,Infectious Disease,Russian,0.39
+179,68,48,Male,White,Black,O+,O-,Russian,0.53
+186,67,38,Male,Blond,Blue,A+,O-,Tongan,0.35
+194,94,23,Female,Blond,Green,O+,Deficiency Diseases,Hausa,0.45
+166,106,78,Male,White,Black,AB-,Hereditary Diseases Genetic,French,0.46
+183,68,80,Male,Black,Green,B+,Hereditary Diseases Genetic,Mapuche,0.38
+194,82,80,Female,Black,Brown,AB+,Hereditary Diseases Genetic,Yoruba,0.48
+170,96,29,Male,Brown,Black,O-,O-,Filipino,0.5
+172,91,68,Female,Black,Brown,B+,Hereditary Diseases Non-Genetic,Ukrainian,0.41
+181,100,84,Female,White,Blue,A+,Infectious Disease,Yoruba,0.51
+178,67,35,Female,Blond,Brown,AB-,Hereditary Diseases Non-Genetic,Mexican,0.37
+174,80,85,Male,Black,Blue,A-,O-,Swedish,0.54
+180,69,32,Male,White,Blue,O-,Deficiency Diseases,Arab (Middle Eastern),0.36
+189,99,86,Female,White,Black,A-,Healthy,Sephardic Jewish,0.37
+191,87,69,Female,Brown,Blue,AB-,physiological diseases,Cuban,0.46
+194,106,35,Male,White,Brown,O-,Hereditary Diseases Non-Genetic,Swedish,0.46
+185,108,21,Male,Brown,Black,O-,Hereditary Diseases Non-Genetic,Aboriginal Australian,0.53
+167,92,29,Male,White,Blue,A+,Deficiency Diseases,Dinka,0.46
+170,71,67,Male,Brown,Brown,O-,Infectious Disease,Native American,0.54
+169,66,30,Female,White,Brown,B-,Deficiency Diseases,Polish,0.51
+187,97,20,Female,Black,Blue,A-,physiological diseases,Aymara,0.46
+177,87,22,Female,Blond,Green,AB-,O-,Swedish,0.33
+166,66,26,Female,Black,Brown,A-,Deficiency Diseases,Hawaiian,0.5
+171,89,71,Male,Black,Black,O-,O-,Norwegian,0.32
+189,84,89,Male,Blond,Brown,O+,Deficiency Diseases,Han Chinese,0.38
+194,70,86,Female,White,Black,AB+,physiological diseases,Han Chinese,0.46
+174,82,45,Female,White,Green,O-,Infectious Disease,Cherokee,0.32
+195,76,82,Male,Black,Green,A-,Healthy,Quechua,0.38
+180,81,80,Male,Black,Green,O-,Healthy,Mapuche,0.48
+180,107,79,Female,White,Blue,B-,Healthy,Greek,0.44
+194,105,71,Female,Black,Black,AB+,O-,Persian,0.32
+193,95,79,Male,Brown,Brown,A-,Hereditary Diseases Genetic,Ukrainian,0.33
+180,68,87,Female,Black,Brown,A+,Hereditary Diseases Genetic,Sindhi,0.49
+193,67,36,Male,Black,Black,O-,Healthy,Mongolian,0.38
+186,66,89,Female,White,Black,B-,Hereditary Diseases Non-Genetic,Mestizo,0.47
+167,85,27,Female,Blond,Brown,B-,Hereditary Diseases Non-Genetic,Pashtun,0.34
+177,94,41,Male,Black,Blue,AB-,Hereditary Diseases Genetic,Bengali,0.4
+183,109,26,Female,Black,Green,O+,physiological diseases,Latino,0.56
+174,69,55,Male,Black,Brown,O-,Infectious Disease,Turkish,0.43
+166,92,50,Female,Brown,Blue,AB+,Hereditary Diseases Genetic,Māori,0.52
+187,65,62,Male,White,Blue,AB+,Deficiency Diseases,Fijian,0.41
+195,78,21,Female,White,Blue,B+,Hereditary Diseases Non-Genetic,Navajo,0.41
+187,80,17,Male,White,Brown,A-,Too Healthy,Norwegian,0.54
+166,103,44,Female,Brown,Brown,O-,O-,Hausa,0.33
+182,67,26,Female,White,Brown,B-,Hereditary Diseases Non-Genetic,Norwegian,0.4
+178,109,19,Female,Black,Brown,AB-,Healthy,Mongolian,0.31
+173,89,90,Female,White,Brown,AB-,O-,Māori,0.43
+174,107,23,Male,Blond,Blue,B+,Deficiency Diseases,Korean,0.46
+190,67,36,Male,Brown,Blue,A-,Deficiency Diseases,Polish,0.41
+167,92,51,Female,White,Black,B-,Infectious Disease,Japanese,0.5
+179,72,87,Male,Black,Brown,B-,Hereditary Diseases Genetic,Mongolian,0.56
+168,91,48,Male,Blond,Green,O-,O-,Han Chinese,0.56
+180,96,15,Male,White,Green,B-,Infectious Disease,Afro-Brazilian,0.55
+185,110,24,Male,White,Blue,A+,Too Healthy,Thai,0.55
+172,98,69,Male,White,Black,A-,Hereditary Diseases Non-Genetic,Afro-Brazilian,0.45
+165,110,85,Female,Black,Black,A+,O-,Igbo,0.36
+188,68,52,Female,White,Brown,A-,Deficiency Diseases,Irish,0.32
+172,71,53,Male,Brown,Brown,A+,Deficiency Diseases,Mapuche,0.55
+189,74,31,Female,White,Brown,O+,O-,Yoruba,0.33
+186,81,18,Male,Blond,Green,AB+,Healthy,First Nations,0.56
+178,75,35,Male,Brown,Blue,O+,Infectious Disease,Tamil,0.42
+178,75,59,Female,White,Green,A+,Infectious Disease,Russian,0.54
+170,71,36,Female,White,Brown,O+,Hereditary Diseases Non-Genetic,Aymara,0.35
+195,95,35,Female,White,Green,AB+,O-,Russian,0.33
+177,70,45,Female,White,Black,AB-,Infectious Disease,Tibetan,0.55
+195,108,20,Male,White,Green,B-,Too Healthy,Tajik,0.44
+191,86,57,Male,Brown,Blue,AB+,Hereditary Diseases Genetic,Mestizo,0.46
+170,88,54,Female,White,Brown,A-,physiological diseases,French,0.35
+187,69,76,Female,Blond,Blue,A-,Hereditary Diseases Genetic,Bengali,0.31
+170,67,23,Female,White,Brown,A+,Infectious Disease,Tutsi,0.5
+194,88,42,Male,Brown,Brown,A-,Hereditary Diseases Non-Genetic,Torres Strait Islander,0.46
+170,70,49,Male,Blond,Blue,AB-,Healthy,Igbo,0.51
+190,92,68,Female,Black,Brown,B-,O-,Papua New Guinean,0.5
+182,78,80,Male,Blond,Blue,AB+,Hereditary Diseases Non-Genetic,Xhosa,0.53
+190,95,89,Female,Black,Blue,A+,Too Healthy,Thai,0.52
+194,83,30,Female,White,Black,AB+,Hereditary Diseases Non-Genetic,Hazara,0.52
+174,106,44,Female,Brown,Blue,A+,Deficiency Diseases,Russian,0.47
+195,69,40,Male,Blond,Brown,O+,Deficiency Diseases,Basque,0.49
+173,94,28,Male,Blond,Brown,A+,Infectious Disease,Dinka,0.51
+187,71,64,Male,Brown,Blue,AB+,Infectious Disease,Berber,0.32
+177,96,52,Female,Blond,Green,B-,physiological diseases,White Latin American,0.31
+183,71,46,Female,Black,Blue,B-,Deficiency Diseases,Persian,0.52
+176,69,43,Male,White,Green,A+,Hereditary Diseases Genetic,Aboriginal Australian,0.31
+175,91,17,Female,Blond,Black,A+,Hereditary Diseases Genetic,Spanish,0.38
+182,74,58,Male,Black,Black,B-,Deficiency Diseases,Italian,0.38
+176,79,85,Female,Blond,Green,A-,Deficiency Diseases,Zulu,0.46
+185,102,62,Male,Brown,Blue,O+,Hereditary Diseases Genetic,Zulu,0.39
+190,100,22,Female,Black,Brown,B-,O-,African American,0.53
+182,85,72,Female,Black,Black,A+,O-,Ukrainian,0.45
+171,72,27,Female,Black,Brown,AB-,Hereditary Diseases Genetic,Dinka,0.55
+172,110,63,Female,Blond,Blue,A-,Deficiency Diseases,Xhosa,0.45
+180,87,19,Male,White,Blue,AB+,physiological diseases,Somali,0.41
+176,70,32,Female,Black,Blue,O-,Hereditary Diseases Non-Genetic,Amhara,0.42
+184,97,43,Male,Black,Green,A-,physiological diseases,Arab,0.33
+185,66,46,Male,Black,Black,B-,Healthy,Pashtun,0.32
+187,110,31,Male,White,Brown,AB+,Deficiency Diseases,Uyghur,0.43
+189,81,35,Female,Brown,Blue,B-,Too Healthy,Aymara,0.55
+189,77,15,Female,Blond,Brown,O-,physiological diseases,Mestizo,0.47
+185,92,50,Male,Brown,Brown,AB-,O-,Latino,0.31
+173,108,25,Male,Brown,Green,AB-,physiological diseases,Native American,0.3
+185,99,49,Female,White,Black,B-,Too Healthy,Punjabi,0.53
+179,81,54,Female,Black,Blue,O-,O-,Ashkenazi Jewish,0.41
+166,99,52,Female,White,Brown,A-,Hereditary Diseases Genetic,Pashtun,0.52
+169,103,58,Male,Blond,Brown,AB+,Too Healthy,Dinka,0.32
+184,73,89,Female,Brown,Brown,B+,Deficiency Diseases,Danish,0.42
+195,74,80,Male,Blond,Brown,B+,Hereditary Diseases Non-Genetic,Turkish,0.3
+193,69,28,Female,Brown,Green,A+,O-,Cherokee,0.37
+181,93,74,Female,Blond,Blue,O+,physiological diseases,Malay,0.55
+172,104,84,Male,Brown,Black,A+,physiological diseases,Tibetan,0.39
+195,105,70,Male,Brown,Black,B-,physiological diseases,English,0.32
+185,84,53,Male,Blond,Blue,O+,Infectious Disease,Malay,0.3
+192,82,49,Male,Blond,Green,A+,Hereditary Diseases Genetic,Yoruba,0.54
+179,67,30,Female,Black,Blue,AB+,Infectious Disease,Aymara,0.53
+183,99,37,Male,Blond,Brown,AB-,Too Healthy,Inuit,0.47
+188,82,37,Female,Black,Blue,O-,Hereditary Diseases Genetic,Basque,0.47
+173,95,55,Male,White,Black,A+,Healthy,Irish,0.36
+165,97,56,Male,Brown,Blue,B+,Infectious Disease,Danish,0.46
+194,93,75,Male,Black,Brown,O+,O-,Persian,0.5
+175,87,38,Female,Blond,Blue,O-,Hereditary Diseases Non-Genetic,Danish,0.56
+192,102,26,Male,Black,Brown,O+,physiological diseases,Inuit,0.38
+193,70,76,Female,Black,Black,B-,Too Healthy,Māori,0.49
+184,65,83,Female,White,Green,A-,Deficiency Diseases,Puerto Rican,0.51
+172,69,49,Male,Blond,Green,A-,physiological diseases,Aymara,0.33
+195,109,23,Female,Brown,Black,O+,Too Healthy,Hispanic,0.34
+191,75,35,Male,Blond,Green,A+,O-,Arab (Middle Eastern),0.5
+182,98,51,Female,Brown,Blue,A-,Hereditary Diseases Genetic,Afro-Caribbean,0.42
+182,103,81,Male,Blond,Green,A-,Hereditary Diseases Genetic,Cherokee,0.46
+185,102,30,Male,Brown,Brown,AB+,O-,Malay,0.49
+170,73,62,Female,Brown,Blue,O+,Hereditary Diseases Non-Genetic,Filipino,0.55
+176,92,85,Female,Brown,Black,B-,physiological diseases,Māori,0.3
+170,86,60,Female,Brown,Green,AB-,Hereditary Diseases Non-Genetic,Papua New Guinean,0.55
+171,90,76,Female,Blond,Black,AB-,Deficiency Diseases,Xhosa,0.42
+175,104,27,Female,White,Green,AB-,Infectious Disease,Hispanic,0.39
+171,99,36,Male,Brown,Brown,O+,Deficiency Diseases,Polish,0.34
+175,108,79,Female,Brown,Green,O+,Infectious Disease,Cherokee,0.36
+191,100,75,Female,Brown,Green,B+,Healthy,Native American,0.36
+194,110,68,Male,Black,Black,B-,Healthy,Native American,0.46
+186,68,23,Female,Blond,Black,AB+,physiological diseases,Danish,0.34
+187,73,65,Male,Black,Blue,AB+,Too Healthy,Polish,0.31
+168,67,67,Female,Brown,Black,O-,Hereditary Diseases Genetic,Polish,0.42
+176,77,23,Female,Black,Green,B-,Hereditary Diseases Genetic,Inuit,0.41
+175,106,63,Male,White,Blue,AB-,Too Healthy,Swedish,0.41
+173,71,36,Male,Blond,Brown,B-,Hereditary Diseases Genetic,Hausa,0.36
+195,90,66,Male,Brown,Green,AB+,Healthy,White American,0.54
+184,92,36,Male,Blond,Green,O-,Hereditary Diseases Non-Genetic,Aymara,0.33
+175,93,54,Female,Brown,Blue,B-,Hereditary Diseases Genetic,Filipino,0.32
+187,106,66,Female,Black,Blue,A+,Infectious Disease,Afro-Caribbean,0.55
+173,99,64,Male,Brown,Blue,B+,Healthy,Korean,0.37
+171,89,63,Male,Black,Green,AB+,Deficiency Diseases,Mexican,0.38
+190,76,40,Female,White,Blue,A-,Hereditary Diseases Genetic,Somali,0.55
+176,92,36,Male,Brown,Black,AB+,Too Healthy,Malay,0.42
+182,66,22,Male,Blond,Black,A+,Hereditary Diseases Genetic,Igbo,0.47
+178,90,31,Male,Brown,Blue,A-,Hereditary Diseases Genetic,African American,0.3
+187,101,28,Male,Brown,Black,B+,Hereditary Diseases Genetic,Spanish,0.51
+168,109,55,Male,White,Blue,O+,O-,Uyghur,0.36
+169,65,79,Male,Blond,Black,O-,O-,Mongolian,0.35
+183,104,73,Male,White,Brown,O+,Hereditary Diseases Genetic,Aboriginal Australian,0.32
+181,93,81,Female,White,Black,O-,Deficiency Diseases,Swedish,0.49
+168,82,85,Male,White,Green,O-,Too Healthy,Polish,0.41
+168,90,16,Male,Black,Blue,AB-,Hereditary Diseases Genetic,Bengali,0.32
+192,106,81,Male,White,Brown,AB+,Too Healthy,Polish,0.33
+183,79,20,Female,Brown,Brown,AB-,O-,Papua New Guinean,0.39
+190,73,56,Female,Blond,Brown,B-,physiological diseases,Micronesian,0.51
+188,76,76,Female,Blond,Black,A-,Deficiency Diseases,Russian,0.47
+182,90,69,Female,Black,Brown,B+,Too Healthy,Torres Strait Islander,0.39
+183,65,85,Male,Brown,Black,AB+,Hereditary Diseases Non-Genetic,Xhosa,0.45
+182,75,71,Male,White,Green,O-,O-,Gujarati,0.4
+194,102,75,Male,Brown,Green,AB+,Hereditary Diseases Genetic,Aboriginal Australian,0.47
+166,93,24,Female,Blond,Blue,AB+,Hereditary Diseases Non-Genetic,Serbian,0.36
+169,90,33,Male,Black,Blue,AB-,Healthy,Italian,0.55
+182,96,49,Male,Black,Green,A+,Hereditary Diseases Genetic,Hutu,0.53
+176,72,62,Female,Brown,Green,AB+,Hereditary Diseases Non-Genetic,Quechua,0.31
+186,110,44,Male,Blond,Green,B-,Healthy,Xhosa,0.43
+178,101,71,Male,Black,Blue,O-,Hereditary Diseases Non-Genetic,English,0.42
+167,82,22,Female,Black,Black,A-,Healthy,Mongolian,0.36
+180,95,32,Female,Black,Black,A-,Deficiency Diseases,Igbo,0.33
+182,81,56,Male,White,Blue,B+,Too Healthy,Afro-Caribbean,0.45
+178,102,37,Female,Blond,Green,O+,Healthy,Inuit,0.43
+172,79,26,Female,Brown,Green,AB+,Hereditary Diseases Non-Genetic,White American,0.41
+187,93,45,Female,Black,Brown,B+,Too Healthy,Ashkenazi Jewish,0.33
+170,91,49,Female,White,Blue,A+,physiological diseases,Mexican,0.36
+194,85,30,Male,Brown,Brown,O-,Too Healthy,Afro-Caribbean,0.33
+184,84,90,Female,Blond,Brown,O+,physiological diseases,Somali,0.44
+187,74,90,Female,White,Green,AB+,Infectious Disease,Ashkenazi Jewish,0.53
+192,94,17,Male,Black,Brown,B-,physiological diseases,Xhosa,0.54
+183,82,83,Male,White,Blue,AB-,Hereditary Diseases Genetic,French,0.49
+182,86,34,Female,Brown,Blue,A-,Healthy,Māori,0.34
+193,72,74,Male,Brown,Brown,B-,Too Healthy,Swedish,0.48
+195,76,64,Female,Brown,Blue,AB+,Hereditary Diseases Genetic,Serbian,0.49
+169,100,54,Female,Brown,Green,O-,Healthy,Amhara,0.53
+176,96,82,Male,Brown,Blue,AB+,O-,Greek,0.41
+185,91,90,Male,Brown,Green,B-,Too Healthy,African American,0.45
+165,67,76,Female,Brown,Black,A-,physiological diseases,Ukrainian,0.53
+168,88,63,Male,Black,Blue,AB+,Deficiency Diseases,Navajo,0.31
+177,83,69,Male,Blond,Brown,AB-,physiological diseases,German,0.4
+183,79,33,Female,Black,Brown,B-,physiological diseases,Igbo,0.43
+169,93,33,Female,White,Brown,B+,Hereditary Diseases Genetic,European American,0.46
+185,83,65,Male,White,Green,B+,physiological diseases,Afro-Caribbean,0.47
+190,79,29,Female,Black,Green,B+,physiological diseases,Aboriginal Australian,0.5
+170,99,45,Male,Brown,Green,AB+,Too Healthy,Tongan,0.35
+194,97,29,Male,Brown,Black,AB+,Healthy,White American,0.38
+176,108,33,Female,White,Green,A-,Infectious Disease,Ukrainian,0.36
+174,68,53,Female,Blond,Brown,B-,Too Healthy,Papua New Guinean,0.32
+169,76,83,Male,White,Blue,AB-,Too Healthy,Xhosa,0.39
+167,98,70,Male,Blond,Brown,O+,Too Healthy,French,0.4
+183,104,87,Male,Black,Brown,B+,Deficiency Diseases,Hawaiian,0.52
+177,71,24,Male,Blond,Blue,AB+,Too Healthy,Mapuche,0.54
+174,68,71,Female,White,Blue,B+,Infectious Disease,Turkish,0.47
+189,68,69,Male,Brown,Blue,B+,Deficiency Diseases,Mongolian,0.47
+167,71,30,Male,Black,Green,A-,O-,Micronesian,0.51
+190,77,68,Male,White,Green,AB-,Healthy,Irish,0.36
+190,94,39,Male,White,Blue,B+,Hereditary Diseases Non-Genetic,Serbian,0.5
+185,100,60,Female,Brown,Black,O+,O-,Sephardic Jewish,0.32
+168,70,43,Male,Brown,Green,A+,Too Healthy,Arab (Middle Eastern),0.42
+190,107,40,Male,Black,Green,AB-,Hereditary Diseases Genetic,Sindhi,0.46
+172,73,74,Female,Black,Black,O+,Too Healthy,Ukrainian,0.33
+170,86,54,Female,Black,Brown,AB+,Deficiency Diseases,Tongan,0.5
+180,84,27,Male,Brown,Black,O+,Hereditary Diseases Non-Genetic,Māori,0.54
+176,65,89,Female,Blond,Brown,A+,Too Healthy,Inuit,0.46
+181,80,47,Female,Black,Blue,A-,Deficiency Diseases,Berber,0.55
+189,79,81,Female,Brown,Green,AB-,Infectious Disease,Torres Strait Islander,0.32
+177,106,27,Male,White,Brown,O-,Deficiency Diseases,Mestizo,0.32
+192,94,63,Female,Brown,Blue,B-,Too Healthy,Afro-Colombian,0.52
+192,105,33,Female,Blond,Blue,O+,Deficiency Diseases,German,0.38
+186,110,89,Female,Black,Brown,AB-,Too Healthy,European American,0.37
+182,91,49,Male,Black,Green,AB-,physiological diseases,Xhosa,0.54
+167,92,36,Male,White,Brown,B+,Hereditary Diseases Non-Genetic,Greek,0.31
+186,106,31,Male,Black,Black,O-,Hereditary Diseases Non-Genetic,African American,0.34
+182,71,24,Male,White,Black,AB+,Too Healthy,First Nations,0.3
+178,77,76,Male,White,Black,O-,Hereditary Diseases Non-Genetic,Roma,0.37
+178,70,36,Female,Black,Blue,B+,Hereditary Diseases Genetic,Tongan,0.44
+172,92,75,Male,White,Blue,A+,Too Healthy,Fijian,0.46
+166,69,83,Male,Blond,Blue,A+,Hereditary Diseases Genetic,First Nations,0.48
+190,94,28,Male,Black,Black,O+,Deficiency Diseases,Tutsi,0.42
+175,97,62,Female,Blond,Black,B+,Too Healthy,European American,0.46
+182,78,47,Male,White,Brown,B+,Too Healthy,Uyghur,0.35
+170,79,62,Male,Blond,Brown,A+,physiological diseases,Mapuche,0.31
+182,86,47,Male,Black,Blue,A+,O-,French,0.47
+185,107,25,Male,Brown,Blue,B+,Infectious Disease,Irish,0.49
+170,105,20,Male,Brown,Brown,O+,Hereditary Diseases Non-Genetic,Polish,0.44
+174,91,43,Male,Brown,Green,A-,Too Healthy,Oromo,0.5
+177,100,41,Male,White,Blue,B+,physiological diseases,Polish,0.53
+179,87,64,Female,Blond,Brown,A-,Healthy,Mongolian,0.41
+170,90,69,Male,Black,Green,A-,Infectious Disease,French,0.51
+190,97,57,Female,Brown,Blue,A+,Hereditary Diseases Non-Genetic,Cuban,0.55
+166,105,73,Female,Blond,Brown,AB+,Infectious Disease,Somali,0.5
+178,80,64,Male,White,Brown,O+,Deficiency Diseases,Papua New Guinean,0.55
+171,90,22,Male,Brown,Brown,AB+,O-,Swedish,0.49
+185,102,18,Female,White,Black,O-,physiological diseases,Mapuche,0.36
+190,98,74,Female,White,Blue,AB-,Infectious Disease,Afro-Colombian,0.41
+182,80,66,Male,Black,Green,AB+,Healthy,Arab (Middle Eastern),0.35
+165,72,27,Male,Black,Black,O-,Healthy,Serbian,0.39
+179,110,88,Female,White,Blue,A+,Hereditary Diseases Non-Genetic,Uyghur,0.42
+194,85,75,Female,Blond,Black,AB+,Hereditary Diseases Non-Genetic,Turkish,0.48
+178,70,18,Male,Black,Brown,A-,Too Healthy,Arab (Middle Eastern),0.38
+166,73,24,Male,Black,Blue,AB-,Deficiency Diseases,Quechua,0.3
+178,86,63,Female,Blond,Blue,A-,Hereditary Diseases Non-Genetic,Norwegian,0.4
+174,108,56,Female,Black,Brown,B-,Too Healthy,Hutu,0.4
+192,68,61,Male,Blond,Brown,A-,physiological diseases,Afro-Brazilian,0.42
+182,93,87,Female,Brown,Brown,O+,physiological diseases,Tongan,0.55
+190,106,68,Female,Blond,Green,O-,Infectious Disease,Tibetan,0.32
+168,109,90,Female,Blond,Black,B-,Deficiency Diseases,Tamil,0.42
+172,81,25,Female,Black,Black,B-,Infectious Disease,English,0.47
+171,66,61,Female,White,Brown,O+,Hereditary Diseases Genetic,Hispanic,0.44
+179,100,69,Female,Blond,Black,B+,Deficiency Diseases,Italian,0.34
+186,93,25,Female,Black,Green,A+,Too Healthy,Afro-Brazilian,0.52
+167,72,20,Male,Brown,Brown,B+,O-,Mestizo,0.5
+181,67,87,Male,White,Green,O+,Hereditary Diseases Non-Genetic,Persian,0.34
+187,94,39,Male,Black,Green,AB+,Infectious Disease,Hazara,0.46
+175,66,80,Male,Brown,Blue,AB+,Too Healthy,Sindhi,0.45
+168,67,21,Male,Black,Black,O+,Hereditary Diseases Genetic,Cherokee,0.38
+182,94,19,Female,White,Brown,AB-,Infectious Disease,Mestizo,0.41
+173,101,18,Female,Brown,Brown,O-,O-,Polish,0.43
+165,68,53,Female,Blond,Black,B-,Hereditary Diseases Non-Genetic,Hausa,0.36
+166,94,23,Male,White,Brown,AB+,Deficiency Diseases,Quechua,0.31
+178,92,81,Female,White,Green,AB-,Healthy,British,0.5
+192,84,67,Female,White,Blue,O+,O-,Russian,0.43
+185,95,32,Female,White,Brown,A-,Hereditary Diseases Non-Genetic,English,0.48
+167,66,51,Male,Blond,Green,AB+,physiological diseases,First Nations,0.38
+185,82,81,Female,Brown,Green,AB-,Hereditary Diseases Genetic,Igbo,0.44
+181,71,35,Female,Brown,Black,B-,Hereditary Diseases Genetic,Dinka,0.54
+179,65,90,Female,Brown,Blue,B-,Infectious Disease,Berber,0.32
+195,74,20,Male,White,Green,AB-,physiological diseases,Uyghur,0.45
+183,96,77,Male,Black,Brown,O+,Infectious Disease,Tongan,0.42
+185,96,32,Female,White,Black,AB-,Too Healthy,Native American,0.31
+166,97,63,Female,Black,Black,A-,Too Healthy,Oromo,0.32
+173,109,71,Male,Brown,Brown,AB+,Hereditary Diseases Non-Genetic,French,0.43
+177,103,32,Male,Black,Black,AB+,Healthy,Korean,0.35
+168,103,20,Male,Brown,Blue,A-,Healthy,Tutsi,0.4
+165,79,24,Female,White,Blue,AB+,Hereditary Diseases Genetic,Arab,0.45
+191,74,26,Male,Brown,Green,A-,Hereditary Diseases Genetic,British,0.35
+191,106,43,Male,Black,Blue,AB-,Too Healthy,Filipino,0.38
+195,71,70,Female,White,Black,AB-,Infectious Disease,African American,0.4
+179,93,82,Female,Black,Green,B+,Too Healthy,Ashkenazi Jewish,0.49
+171,72,27,Male,Blond,Green,B+,Too Healthy,Swedish,0.55
+186,91,73,Female,White,Green,B+,Hereditary Diseases Genetic,Hispanic,0.39
+181,107,79,Female,Brown,Blue,AB-,physiological diseases,Polish,0.44
+193,108,27,Female,Brown,Blue,B+,Infectious Disease,Vietnamese,0.44
+191,78,54,Female,White,Green,B+,physiological diseases,Xhosa,0.54
+175,89,16,Male,Black,Brown,B-,Deficiency Diseases,Mexican,0.43
+176,76,41,Male,Black,Green,A+,Too Healthy,Zulu,0.37
+183,108,23,Female,White,Black,AB+,Hereditary Diseases Genetic,Norwegian,0.41
+174,65,81,Female,White,Green,B+,Too Healthy,Greek,0.42
+179,67,77,Female,White,Brown,AB+,Hereditary Diseases Non-Genetic,Korean,0.33
+176,66,54,Female,White,Black,A+,Deficiency Diseases,Cuban,0.34
+179,96,76,Female,White,Blue,O+,O-,Somali,0.31
+165,95,70,Male,Black,Blue,A+,O-,Turkish,0.41
+179,108,16,Male,Brown,Black,A-,Hereditary Diseases Genetic,British,0.41
+184,66,46,Male,Blond,Green,AB-,Too Healthy,Thai,0.52
+169,99,46,Female,White,Green,O-,Healthy,Tamil,0.3
+178,89,62,Male,White,Blue,AB+,Healthy,White Latin American,0.49
+193,101,34,Female,White,Blue,A+,Too Healthy,White Latin American,0.32
+176,90,61,Female,Black,Brown,B+,O-,Samoan,0.49
+168,93,80,Female,Blond,Brown,A-,Too Healthy,Afro-Brazilian,0.46
+175,83,32,Female,Black,Blue,AB-,Healthy,African American,0.4
+175,70,58,Female,Black,Blue,O+,Hereditary Diseases Genetic,Torres Strait Islander,0.41
+181,70,18,Male,Black,Black,B+,Infectious Disease,Spanish,0.4
+191,92,90,Male,Black,Green,AB+,O-,French,0.43
+188,108,82,Female,Blond,Brown,O-,Deficiency Diseases,Indigenous South American,0.5
+187,76,20,Female,Brown,Brown,O-,Healthy,Mexican,0.4
+191,67,24,Male,Brown,Brown,A-,Healthy,Indigenous South American,0.54
+194,83,87,Male,White,Black,AB-,physiological diseases,British,0.38
+172,86,77,Male,Blond,Brown,A+,O-,Afro-Caribbean,0.32
+189,68,89,Male,Blond,Green,B-,Healthy,Afro-Colombian,0.45
+174,70,50,Female,Brown,Black,AB+,Hereditary Diseases Non-Genetic,Irish,0.32
+195,85,27,Female,Blond,Brown,O+,Hereditary Diseases Genetic,Gujarati,0.33
+187,79,51,Male,White,Green,B+,Hereditary Diseases Genetic,Russian,0.41
+187,96,16,Male,Black,Green,AB+,Hereditary Diseases Non-Genetic,Pashtun,0.49
+191,70,55,Male,White,Brown,B+,Hereditary Diseases Genetic,Tajik,0.34
+173,90,74,Female,Brown,Black,A+,Too Healthy,Serbian,0.5
+174,108,69,Male,White,Brown,O+,Too Healthy,White Latin American,0.3
+177,95,47,Male,Brown,Black,O+,Hereditary Diseases Non-Genetic,Arab (Middle Eastern),0.34
+165,74,59,Female,Black,Black,B-,Deficiency Diseases,Filipino,0.34
+176,90,33,Female,Blond,Black,A+,Hereditary Diseases Genetic,English,0.46
+191,89,21,Female,White,Brown,O+,Deficiency Diseases,Basque,0.43
+184,83,82,Female,White,Green,A-,Infectious Disease,Sindhi,0.45
+171,88,38,Male,Black,Black,AB-,O-,Thai,0.44
+173,89,59,Female,White,Blue,AB-,Hereditary Diseases Genetic,Ukrainian,0.37
+185,95,77,Female,White,Blue,O-,O-,Tutsi,0.48
+178,107,38,Male,Blond,Green,B+,Too Healthy,Spanish,0.56
+168,99,79,Female,Brown,Blue,AB+,Too Healthy,Tutsi,0.51
+168,67,53,Female,Blond,Blue,B-,O-,Aymara,0.35
+174,105,79,Female,Blond,Brown,AB-,Hereditary Diseases Non-Genetic,Puerto Rican,0.35
+180,80,65,Male,Black,Black,AB+,physiological diseases,Mexican,0.46
+186,100,37,Female,White,Blue,A-,Too Healthy,Ashkenazi Jewish,0.38
+182,107,55,Female,Blond,Green,AB-,physiological diseases,Inuit,0.35
+172,82,29,Female,Brown,Blue,O-,Hereditary Diseases Genetic,Russian,0.46
+177,72,39,Male,Black,Black,B-,Hereditary Diseases Genetic,Irish,0.56
+172,99,40,Male,Blond,Black,B+,Hereditary Diseases Genetic,Thai,0.46
+190,95,18,Female,White,Black,A-,Infectious Disease,Tongan,0.49
+193,71,39,Female,Brown,Blue,AB+,Infectious Disease,Kurdish,0.48
+178,104,25,Female,Black,Brown,O-,O-,Filipino,0.36
+166,110,38,Male,White,Brown,A+,Too Healthy,Sindhi,0.54
+180,84,60,Female,Blond,Black,B+,physiological diseases,Somali,0.52
+188,100,63,Male,Brown,Black,AB+,O-,Danish,0.35
+195,100,82,Female,Brown,Black,O+,Healthy,Polish,0.52
+187,77,72,Female,Blond,Green,A+,physiological diseases,Thai,0.53
+172,73,55,Male,Brown,Black,O-,physiological diseases,Danish,0.53
+171,82,53,Male,White,Green,AB-,Infectious Disease,Tongan,0.56
+187,69,52,Male,White,Brown,AB-,O-,Igbo,0.34
+193,108,65,Male,Blond,Blue,AB-,physiological diseases,Aboriginal Australian,0.31
+177,74,72,Female,White,Brown,AB+,Hereditary Diseases Non-Genetic,Papua New Guinean,0.47
+188,108,53,Male,White,Blue,A+,physiological diseases,Bengali,0.43
+192,88,33,Female,Black,Black,B-,Deficiency Diseases,First Nations,0.38
+194,89,88,Male,Blond,Brown,A-,Infectious Disease,Malay,0.41
+176,68,34,Male,Brown,Black,A+,Hereditary Diseases Non-Genetic,Polish,0.41
+168,106,15,Female,Blond,Green,AB+,Deficiency Diseases,Arab,0.52
+187,97,80,Female,White,Blue,B-,Deficiency Diseases,Hausa,0.4
+167,80,53,Male,Brown,Green,B-,Infectious Disease,Igbo,0.56
+195,74,58,Female,Brown,Brown,AB+,Hereditary Diseases Genetic,Russian,0.48
+186,83,44,Male,Blond,Green,AB+,O-,Latino,0.53
+190,78,69,Female,Black,Green,AB+,Hereditary Diseases Non-Genetic,Japanese,0.37
+182,65,20,Male,Brown,Brown,B-,physiological diseases,English,0.34
+174,68,84,Female,Black,Blue,A-,Infectious Disease,Hawaiian,0.34
+192,65,38,Female,Brown,Blue,B-,Hereditary Diseases Non-Genetic,Irish,0.35
+177,109,24,Female,Blond,Brown,A+,O-,White American,0.48
+195,108,45,Male,White,Brown,B+,Deficiency Diseases,Dinka,0.33
+190,81,42,Male,Blond,Blue,O-,Healthy,Vietnamese,0.52
+191,102,47,Male,Blond,Brown,AB-,Infectious Disease,Native American,0.37
+181,77,37,Female,Blond,Black,A-,Hereditary Diseases Non-Genetic,Tibetan,0.33
+178,97,51,Female,Blond,Black,AB+,Infectious Disease,Turkish,0.47
+176,95,21,Male,Brown,Brown,A-,Too Healthy,Sioux,0.39
+184,71,28,Female,Blond,Black,A-,physiological diseases,Italian,0.36
+190,75,83,Female,Black,Blue,B+,Too Healthy,British,0.56
+185,103,19,Male,White,Black,O-,Hereditary Diseases Genetic,Berber,0.34
+183,81,78,Male,White,Green,O-,Hereditary Diseases Genetic,Punjabi,0.35
+165,96,21,Male,Blond,Black,A+,Hereditary Diseases Non-Genetic,British,0.52
+167,85,17,Female,Brown,Black,O-,Hereditary Diseases Genetic,Sioux,0.52
+168,103,26,Female,Blond,Green,A+,physiological diseases,Greek,0.54
+177,96,80,Female,Brown,Black,A-,Hereditary Diseases Non-Genetic,Sioux,0.49
+177,76,49,Male,Blond,Blue,O+,Healthy,Norwegian,0.47
+173,105,40,Female,Brown,Blue,A-,Healthy,Czech,0.51
+186,104,78,Male,White,Black,O-,O-,Ukrainian,0.47
+190,102,65,Male,Brown,Brown,AB+,Hereditary Diseases Genetic,Berber,0.55
+179,81,49,Male,Black,Blue,AB-,O-,Italian,0.32
+168,78,82,Male,Brown,Brown,AB-,physiological diseases,Tamil,0.55
+168,69,79,Female,White,Blue,O-,physiological diseases,Spanish,0.33
+189,82,61,Female,Black,Black,B+,Hereditary Diseases Non-Genetic,Yoruba,0.4
+187,83,33,Female,Black,Brown,B-,Hereditary Diseases Genetic,Berber,0.37
+187,65,48,Male,White,Green,A+,Deficiency Diseases,British,0.48
+172,104,43,Female,Blond,Green,AB+,Deficiency Diseases,Japanese,0.39
+194,82,82,Female,Brown,Blue,AB+,Hereditary Diseases Genetic,Irish,0.49
+179,103,51,Male,Blond,Blue,A-,Hereditary Diseases Genetic,Han Chinese,0.33
+194,75,29,Female,Blond,Green,AB+,Infectious Disease,Afro-Colombian,0.52
+195,74,83,Male,Brown,Blue,A-,Hereditary Diseases Non-Genetic,Micronesian,0.3
+194,107,83,Female,Black,Brown,AB+,Hereditary Diseases Non-Genetic,Malay,0.39
+187,83,20,Male,Brown,Black,A-,Hereditary Diseases Non-Genetic,Native American,0.49
+176,110,57,Male,Blond,Black,A-,Hereditary Diseases Genetic,Tongan,0.47
+176,99,68,Male,Blond,Brown,B+,Healthy,Swedish,0.39
+177,67,65,Male,Brown,Brown,B+,O-,Igbo,0.52
+165,100,85,Female,Blond,Green,A+,physiological diseases,Mestizo,0.47
+174,109,76,Male,White,Brown,B-,Deficiency Diseases,Serbian,0.52
+169,108,71,Male,Black,Green,O-,Deficiency Diseases,Malay,0.52
+172,87,68,Male,White,Brown,O-,Too Healthy,Sindhi,0.51
+190,93,88,Female,Blond,Blue,B+,O-,Roma,0.52
+172,68,64,Male,Black,Blue,B+,Hereditary Diseases Genetic,Aboriginal Australian,0.32
+179,110,22,Female,Black,Blue,B+,Healthy,Berber,0.48
+181,72,79,Female,Blond,Brown,AB+,O-,Uyghur,0.49
+183,86,65,Female,Black,Brown,A-,Deficiency Diseases,Greek,0.43
+167,94,20,Male,Brown,Blue,AB-,O-,Somali,0.54
+169,75,60,Female,Blond,Brown,A+,physiological diseases,Tutsi,0.33
+175,71,86,Male,White,Blue,B+,Deficiency Diseases,Mongolian,0.42
+175,67,63,Female,Brown,Blue,B-,Hereditary Diseases Non-Genetic,Spanish,0.52
+174,78,38,Female,Blond,Blue,O+,physiological diseases,European American,0.46
+165,101,60,Female,Black,Black,B+,Hereditary Diseases Non-Genetic,Russian,0.42
+182,98,43,Male,Blond,Black,O-,Hereditary Diseases Non-Genetic,Dinka,0.49
+172,100,65,Female,Brown,Green,O-,O-,Greek,0.51
+174,78,65,Female,White,Brown,A-,Hereditary Diseases Non-Genetic,Arab (Middle Eastern),0.39
+177,97,25,Male,Brown,Green,AB+,Deficiency Diseases,Irish,0.55
+182,106,33,Female,Blond,Blue,AB+,Hereditary Diseases Non-Genetic,Igbo,0.38
+170,79,55,Female,White,Blue,A+,Infectious Disease,Tutsi,0.42
+167,101,84,Female,Blond,Blue,A-,Too Healthy,African American,0.44
+190,103,25,Male,Black,Blue,AB-,physiological diseases,Roma,0.52
+174,74,26,Male,Black,Blue,AB-,Hereditary Diseases Genetic,Hazara,0.45
+170,68,20,Female,Brown,Brown,O+,Too Healthy,Czech,0.44
+167,76,56,Male,Blond,Green,AB-,Too Healthy,Pashtun,0.44
+189,79,78,Female,Brown,Blue,B+,Healthy,White American,0.41
+174,102,44,Female,Brown,Green,A+,Hereditary Diseases Non-Genetic,Inuit,0.3
+179,100,67,Female,Black,Black,A-,Hereditary Diseases Non-Genetic,Puerto Rican,0.4
+173,71,25,Female,White,Brown,B-,Hereditary Diseases Genetic,White Latin American,0.54
+166,108,16,Female,Black,Black,O-,Infectious Disease,French,0.34
+184,78,77,Male,White,Blue,O-,Deficiency Diseases,Arab (Middle Eastern),0.33
+182,80,65,Male,White,Brown,O+,Healthy,Mexican,0.4
+190,67,86,Male,Brown,Black,A-,Hereditary Diseases Non-Genetic,Spanish,0.43
+192,107,17,Male,Black,Brown,A+,Hereditary Diseases Genetic,Mongolian,0.41
+181,65,61,Male,Black,Green,O-,Hereditary Diseases Non-Genetic,Polish,0.4
+175,67,58,Male,White,Blue,B+,Too Healthy,Afro-Brazilian,0.38
+170,94,66,Female,Blond,Blue,B+,O-,Han Chinese,0.5
+188,91,56,Female,Brown,Brown,O-,Infectious Disease,Hispanic,0.44
+185,68,76,Male,Blond,Blue,B-,Hereditary Diseases Genetic,Arab (Middle Eastern),0.39
+167,86,51,Female,Blond,Brown,O-,O-,Gujarati,0.48
+168,76,24,Male,Black,Green,A-,O-,Native American,0.34
+182,85,41,Female,Brown,Blue,B-,Hereditary Diseases Non-Genetic,Italian,0.47
+168,65,65,Female,Brown,Brown,AB-,Deficiency Diseases,Basque,0.55
+178,98,67,Female,Blond,Brown,O+,Too Healthy,Hausa,0.4
+189,109,73,Male,Blond,Green,AB-,Hereditary Diseases Non-Genetic,Papua New Guinean,0.5
+190,76,69,Female,Brown,Blue,O-,Infectious Disease,Xhosa,0.39
